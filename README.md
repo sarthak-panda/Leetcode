@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/panda-sarthak/Leetcode/tree/master/0057-insert-interval) |
 | [0741-cherry-pickup](https://github.com/panda-sarthak/Leetcode/tree/master/0741-cherry-pickup) |
 | [1463-cherry-pickup-ii](https://github.com/panda-sarthak/Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1905-count-sub-islands](https://github.com/panda-sarthak/Leetcode/tree/master/1905-count-sub-islands) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/panda-sarthak/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/panda-sarthak/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0968-binary-tree-cameras/) | Hard |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/panda-sarthak/Leetcode/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1463-cherry-pickup-ii](https://github.com/panda-sarthak/Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/panda-sarthak/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2378-choose-edges-to-maximize-score-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2378-choose-edges-to-maximize-score-in-a-tree/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1905-count-sub-islands](https://github.com/panda-sarthak/Leetcode/tree/master/1905-count-sub-islands) |
 ## Matrix
 | Problem Name | Difficulty |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/panda-sarthak/Leetcode/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/panda-sarthak/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0337-house-robber-iii/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0968-binary-tree-cameras/) | Hard |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2378-choose-edges-to-maximize-score-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2378-choose-edges-to-maximize-score-in-a-tree/) | Medium |
 | [2603-collect-coins-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2603-collect-coins-in-a-tree/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/panda-sarthak/Leetcode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
@@ -138,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0337-house-robber-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0337-house-robber-iii/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0968-binary-tree-cameras/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,4 +163,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2603-collect-coins-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2603-collect-coins-in-a-tree/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
