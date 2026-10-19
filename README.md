@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2378-choose-edges-to-maximize-score-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2378-choose-edges-to-maximize-score-in-a-tree/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [3290-maximum-multiplication-score](https://github.com/panda-sarthak/Leetcode/tree/master/3290-maximum-multiplication-score) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/panda-sarthak/Leetcode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 ## Prefix Sum
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/panda-sarthak/Leetcode/tree/master/1905-count-sub-islands) |
 | [2378-choose-edges-to-maximize-score-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2378-choose-edges-to-maximize-score-in-a-tree/) | Medium |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/panda-sarthak/Leetcode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/panda-sarthak/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/panda-sarthak/Leetcode/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/panda-sarthak/Leetcode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/panda-sarthak/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2378-choose-edges-to-maximize-score-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2378-choose-edges-to-maximize-score-in-a-tree/) | Medium |
 | [2603-collect-coins-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2603-collect-coins-in-a-tree/) | Hard |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/panda-sarthak/Leetcode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -156,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0968-binary-tree-cameras/) | Hard |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
