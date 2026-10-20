@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/panda-sarthak/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/panda-sarthak/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/panda-sarthak/Leetcode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/panda-sarthak/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2005-subtree-removal-game-with-fibonacci-tree/) | Hard |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/panda-sarthak/Leetcode/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/panda-sarthak/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
