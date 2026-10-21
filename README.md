@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0528-random-pick-with-weight/) | Medium |
 | [0741-cherry-pickup](https://github.com/panda-sarthak/Leetcode/tree/master/0741-cherry-pickup) |
+| [1408-string-matching-in-an-array](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1408-string-matching-in-an-array/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/panda-sarthak/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1512-number-of-good-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -271,12 +272,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0214-shortest-palindrome](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1392-longest-happy-prefix/) | Hard |
+| [1408-string-matching-in-an-array](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1408-string-matching-in-an-array/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0214-shortest-palindrome](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1392-longest-happy-prefix/) | Hard |
+| [1408-string-matching-in-an-array](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1408-string-matching-in-an-array/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
