@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2005-subtree-removal-game-with-fibonacci-tree/) | Hard |
+| [2409-count-days-spent-together](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2409-count-days-spent-together/) | Easy |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/panda-sarthak/Leetcode/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3102-minimize-manhattan-distances](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3102-minimize-manhattan-distances/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/panda-sarthak/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1392-longest-happy-prefix/) | Hard |
 | [1408-string-matching-in-an-array](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1408-string-matching-in-an-array/) | Easy |
+| [2409-count-days-spent-together](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2409-count-days-spent-together/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
