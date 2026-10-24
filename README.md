@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/panda-sarthak/Leetcode/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0834-sum-of-distances-in-tree/) | Hard |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0935-knight-dialer](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0935-knight-dialer/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0968-binary-tree-cameras/) | Hard |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/panda-sarthak/Leetcode/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0886-possible-bipartition](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0886-possible-bipartition/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/panda-sarthak/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0834-sum-of-distances-in-tree/) | Hard |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0886-possible-bipartition](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0886-possible-bipartition/) | Medium |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
@@ -361,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0050-powx-n/) | Medium |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0847-shortest-path-visiting-all-nodes/) | Hard |
 <!---LeetCode Topics End-->
