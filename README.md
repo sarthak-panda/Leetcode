@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0528-random-pick-with-weight/) | Medium |
 | [0741-cherry-pickup](https://github.com/panda-sarthak/Leetcode/tree/master/0741-cherry-pickup) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0864-shortest-path-to-get-all-keys/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1408-string-matching-in-an-array/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/panda-sarthak/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1512-number-of-good-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0834-sum-of-distances-in-tree/) | Hard |
 | [0886-possible-bipartition](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0886-possible-bipartition/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0968-binary-tree-cameras/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1516-move-sub-tree-of-n-ary-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1516-move-sub-tree-of-n-ary-tree/) | Hard |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0864-shortest-path-to-get-all-keys](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0864-shortest-path-to-get-all-keys/) | Hard |
 | [0886-possible-bipartition](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0886-possible-bipartition/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1905-count-sub-islands](https://github.com/panda-sarthak/Leetcode/tree/master/1905-count-sub-islands) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0886-possible-bipartition](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0886-possible-bipartition/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1905-count-sub-islands](https://github.com/panda-sarthak/Leetcode/tree/master/1905-count-sub-islands) |
 ## Matrix
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0741-cherry-pickup](https://github.com/panda-sarthak/Leetcode/tree/master/0741-cherry-pickup) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0864-shortest-path-to-get-all-keys/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/panda-sarthak/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1905-count-sub-islands](https://github.com/panda-sarthak/Leetcode/tree/master/1905-count-sub-islands) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
