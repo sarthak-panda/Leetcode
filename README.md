@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0886-possible-bipartition/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0968-binary-tree-cameras/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0979-distribute-coins-in-binary-tree/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1192-critical-connections-in-a-network/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0834-sum-of-distances-in-tree/) | Hard |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0886-possible-bipartition](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0886-possible-bipartition/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1192-critical-connections-in-a-network/) | Hard |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
 | [2603-collect-coins-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2603-collect-coins-in-a-tree/) | Hard |
@@ -418,4 +420,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Biconnected Component
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1192-critical-connections-in-a-network/) | Hard |
+## Bridge (Graph)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1192-critical-connections-in-a-network/) | Hard |
 <!---LeetCode Topics End-->
