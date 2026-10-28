@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0864-shortest-path-to-get-all-keys/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1408-string-matching-in-an-array/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/panda-sarthak/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1512-number-of-good-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/panda-sarthak/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2454-next-greater-element-iv](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2454-next-greater-element-iv/) | Hard |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [3102-minimize-manhattan-distances](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3102-minimize-manhattan-distances/) | Hard |
 ## Graph Coloring
 | Problem Name | Difficulty |
@@ -399,4 +402,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2454-next-greater-element-iv](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2454-next-greater-element-iv/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 <!---LeetCode Topics End-->
