@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/panda-sarthak/Leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0031-next-permutation/) | Medium |
 | [0057-insert-interval](https://github.com/panda-sarthak/Leetcode/tree/master/0057-insert-interval) |
 | [0494-target-sum](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0528-random-pick-with-weight/) | Medium |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0031-next-permutation/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
