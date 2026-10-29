@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/panda-sarthak/Leetcode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2409-count-days-spent-together/) | Easy |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/panda-sarthak/Leetcode/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3102-minimize-manhattan-distances](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3102-minimize-manhattan-distances/) | Hard |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/panda-sarthak/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Indexed Tree
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/panda-sarthak/Leetcode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
