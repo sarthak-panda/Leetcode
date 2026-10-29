@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0050-powx-n](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0528-random-pick-with-weight/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0556-next-greater-element-iii/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2005-subtree-removal-game-with-fibonacci-tree/) | Hard |
@@ -330,12 +331,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0031-next-permutation/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0556-next-greater-element-iii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0214-shortest-palindrome](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0214-shortest-palindrome/) | Hard |
 | [0468-validate-ip-address](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0468-validate-ip-address/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0556-next-greater-element-iii/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1392-longest-happy-prefix/) | Hard |
 | [1408-string-matching-in-an-array](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1408-string-matching-in-an-array/) | Easy |
 | [2409-count-days-spent-together](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2409-count-days-spent-together/) | Easy |
