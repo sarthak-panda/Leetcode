@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3102-minimize-manhattan-distances](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3102-minimize-manhattan-distances/) | Hard |
 | [3290-maximum-multiplication-score](https://github.com/panda-sarthak/Leetcode/tree/master/3290-maximum-multiplication-score) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1905-count-sub-islands](https://github.com/panda-sarthak/Leetcode/tree/master/1905-count-sub-islands) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/panda-sarthak/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2454-next-greater-element-iv](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2454-next-greater-element-iv/) | Hard |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/panda-sarthak/Leetcode/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
 | [2603-collect-coins-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2603-collect-coins-in-a-tree/) | Hard |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
