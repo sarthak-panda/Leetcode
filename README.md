@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/panda-sarthak/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2454-next-greater-element-iv](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2454-next-greater-element-iv/) | Hard |
 | [2603-collect-coins-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2603-collect-coins-in-a-tree/) | Hard |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2742-painting-the-walls](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2742-painting-the-walls/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/panda-sarthak/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2005-subtree-removal-game-with-fibonacci-tree/) | Hard |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/panda-sarthak/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2378-choose-edges-to-maximize-score-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2378-choose-edges-to-maximize-score-in-a-tree/) | Medium |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2742-painting-the-walls](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2742-painting-the-walls/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
@@ -157,12 +159,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/panda-sarthak/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2454-next-greater-element-iv](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2454-next-greater-element-iv/) | Hard |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/panda-sarthak/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/panda-sarthak/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/panda-sarthak/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/panda-sarthak/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2454-next-greater-element-iv](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2454-next-greater-element-iv/) | Hard |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/panda-sarthak/Leetcode/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3102-minimize-manhattan-distances](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3102-minimize-manhattan-distances/) | Hard |
