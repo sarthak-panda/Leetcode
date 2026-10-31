@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3665-twisted-mirror-path-count/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/panda-sarthak/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/panda-sarthak/Leetcode/tree/master/1905-count-sub-islands) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
