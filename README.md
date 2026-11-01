@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/panda-sarthak/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0031-next-permutation/) | Medium |
 | [0057-insert-interval](https://github.com/panda-sarthak/Leetcode/tree/master/0057-insert-interval) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0494-target-sum](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0528-random-pick-with-weight/) | Medium |
 | [0741-cherry-pickup](https://github.com/panda-sarthak/Leetcode/tree/master/0741-cherry-pickup) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0050-powx-n/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0528-random-pick-with-weight/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0556-next-greater-element-iii/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
