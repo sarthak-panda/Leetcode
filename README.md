@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/panda-sarthak/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1512-number-of-good-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1854-maximum-population-year](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1854-maximum-population-year/) | Easy |
 | [1905-count-sub-islands](https://github.com/panda-sarthak/Leetcode/tree/master/1905-count-sub-islands) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0732-my-calendar-iii/) | Hard |
 | [1094-car-pooling](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1094-car-pooling/) | Medium |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1854-maximum-population-year](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1854-maximum-population-year/) | Easy |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/panda-sarthak/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 ## Depth-First Search
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/panda-sarthak/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/panda-sarthak/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1094-car-pooling](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1094-car-pooling/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [2054-two-best-non-overlapping-events](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2054-two-best-non-overlapping-events/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
