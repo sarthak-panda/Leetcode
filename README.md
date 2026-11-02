@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0528-random-pick-with-weight/) | Medium |
 | [0731-my-calendar-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0732-my-calendar-iii/) | Hard |
 | [1094-car-pooling](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1094-car-pooling/) | Medium |
 | [1854-maximum-population-year](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1854-maximum-population-year/) | Easy |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/panda-sarthak/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0528-random-pick-with-weight/) | Medium |
 | [0729-my-calendar-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0732-my-calendar-iii/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0729-my-calendar-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0732-my-calendar-iii/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0729-my-calendar-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0732-my-calendar-iii/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [3102-minimize-manhattan-distances](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3102-minimize-manhattan-distances/) | Hard |
 ## Graph Coloring
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0729-my-calendar-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0732-my-calendar-iii/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Binary Lifting
 | Problem Name | Difficulty |
