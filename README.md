@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1094-car-pooling/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1408-string-matching-in-an-array/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/panda-sarthak/Leetcode/tree/master/1463-cherry-pickup-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0732-my-calendar-iii/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [2054-two-best-non-overlapping-events](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2054-two-best-non-overlapping-events/) | Medium |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1094-car-pooling](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1094-car-pooling/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [2054-two-best-non-overlapping-events](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2054-two-best-non-overlapping-events/) | Medium |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0031-next-permutation/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0556-next-greater-element-iii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
