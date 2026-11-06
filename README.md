@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/panda-sarthak/Leetcode/tree/master/0057-insert-interval) |
 | [0204-count-primes](https://github.com/panda-sarthak/Leetcode/tree/master/0204-count-primes) |
 | [0253-meeting-rooms-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0253-meeting-rooms-ii/) | Medium |
+| [0407-trapping-rain-water-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0407-trapping-rain-water-ii/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0407-trapping-rain-water-ii/) | Hard |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0407-trapping-rain-water-ii/) | Hard |
 | [0741-cherry-pickup](https://github.com/panda-sarthak/Leetcode/tree/master/0741-cherry-pickup) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0864-shortest-path-to-get-all-keys/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0253-meeting-rooms-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0253-meeting-rooms-ii/) | Medium |
+| [0407-trapping-rain-water-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0407-trapping-rain-water-ii/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1094-car-pooling](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1094-car-pooling/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
