@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2603-collect-coins-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2603-collect-coins-in-a-tree/) | Hard |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2742-painting-the-walls](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2742-painting-the-walls/) | Hard |
+| [2747-count-zero-request-servers](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2747-count-zero-request-servers/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/panda-sarthak/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/panda-sarthak/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/panda-sarthak/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2454-next-greater-element-iv](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2454-next-greater-element-iv/) | Hard |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2747-count-zero-request-servers/) | Medium |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/panda-sarthak/Leetcode/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3102-minimize-manhattan-distances](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3102-minimize-manhattan-distances/) | Hard |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [1740-find-distance-in-a-binary-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1740-find-distance-in-a-binary-tree/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2747-count-zero-request-servers/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/panda-sarthak/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
