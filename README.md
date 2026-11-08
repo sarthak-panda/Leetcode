@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1094-car-pooling/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1408-string-matching-in-an-array/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1192-critical-connections-in-a-network/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0864-shortest-path-to-get-all-keys/) | Hard |
 | [0886-possible-bipartition](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0886-possible-bipartition/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0886-possible-bipartition](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0886-possible-bipartition/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1905-count-sub-islands](https://github.com/panda-sarthak/Leetcode/tree/master/1905-count-sub-islands) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/panda-sarthak/Leetcode/tree/master/0741-cherry-pickup) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0864-shortest-path-to-get-all-keys/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/panda-sarthak/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1905-count-sub-islands](https://github.com/panda-sarthak/Leetcode/tree/master/1905-count-sub-islands) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -429,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [1854-maximum-population-year](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1854-maximum-population-year/) | Easy |
 ## Randomized
