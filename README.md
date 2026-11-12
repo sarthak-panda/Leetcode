@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1882-process-tasks-using-servers/) | Medium |
 | [1905-count-sub-islands](https://github.com/panda-sarthak/Leetcode/tree/master/1905-count-sub-islands) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2054-two-best-non-overlapping-events/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/panda-sarthak/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/panda-sarthak/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1905-count-sub-islands](https://github.com/panda-sarthak/Leetcode/tree/master/1905-count-sub-islands) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3665-twisted-mirror-path-count/) | Medium |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2054-two-best-non-overlapping-events/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/panda-sarthak/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2005-subtree-removal-game-with-fibonacci-tree/) | Hard |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2409-count-days-spent-together](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2409-count-days-spent-together/) | Easy |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/panda-sarthak/Leetcode/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3102-minimize-manhattan-distances](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3102-minimize-manhattan-distances/) | Hard |
