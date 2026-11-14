@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0480-sliding-window-median/) | Hard |
 | [0494-target-sum](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0528-random-pick-with-weight/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0729-my-calendar-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
 | [0741-cherry-pickup](https://github.com/panda-sarthak/Leetcode/tree/master/0741-cherry-pickup) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0253-meeting-rooms-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0528-random-pick-with-weight/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0731-my-calendar-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0732-my-calendar-iii/) | Hard |
 | [1094-car-pooling](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1094-car-pooling/) | Medium |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/panda-sarthak/Leetcode/tree/master/0001-two-sum) |
 | [0480-sliding-window-median](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0480-sliding-window-median/) | Hard |
+| [0560-subarray-sum-equals-k](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [1740-find-distance-in-a-binary-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1740-find-distance-in-a-binary-tree/) | Medium |
