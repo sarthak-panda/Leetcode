@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1408-string-matching-in-an-array/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0968-binary-tree-cameras/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/panda-sarthak/Leetcode/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/panda-sarthak/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
