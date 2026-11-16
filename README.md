@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0556-next-greater-element-iii/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1392-longest-happy-prefix/) | Hard |
 | [1408-string-matching-in-an-array](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1408-string-matching-in-an-array/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2409-count-days-spent-together/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1094-car-pooling/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
