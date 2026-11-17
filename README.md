@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2742-painting-the-walls](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2742-painting-the-walls/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Hard/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [3290-maximum-multiplication-score](https://github.com/panda-sarthak/Leetcode/tree/master/3290-maximum-multiplication-score) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0556-next-greater-element-iii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Hard/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/1408-string-matching-in-an-array/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2409-count-days-spent-together/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Hard/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
