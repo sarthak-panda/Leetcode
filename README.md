@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/panda-sarthak/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2454-next-greater-element-iv](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2454-next-greater-element-iv/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2603-collect-coins-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2603-collect-coins-in-a-tree/) | Hard |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2742-painting-the-walls](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2742-painting-the-walls/) | Hard |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/panda-sarthak/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/panda-sarthak/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/panda-sarthak/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2454-next-greater-element-iv](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2454-next-greater-element-iv/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2747-count-zero-request-servers/) | Medium |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
