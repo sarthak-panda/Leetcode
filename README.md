@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/panda-sarthak/Leetcode/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3102-minimize-manhattan-distances](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3102-minimize-manhattan-distances/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3290-maximum-multiplication-score](https://github.com/panda-sarthak/Leetcode/tree/master/3290-maximum-multiplication-score) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Hard/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3290-maximum-multiplication-score](https://github.com/panda-sarthak/Leetcode/tree/master/3290-maximum-multiplication-score) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/panda-sarthak/Leetcode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2747-count-zero-request-servers/) | Medium |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/panda-sarthak/Leetcode/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3102-minimize-manhattan-distances](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3102-minimize-manhattan-distances/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/panda-sarthak/Leetcode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
