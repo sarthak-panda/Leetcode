@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3290-maximum-multiplication-score](https://github.com/panda-sarthak/Leetcode/tree/master/3290-maximum-multiplication-score) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/panda-sarthak/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0204-count-primes](https://github.com/panda-sarthak/Leetcode/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/panda-sarthak/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2409-count-days-spent-together/) | Easy |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/panda-sarthak/Leetcode/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3102-minimize-manhattan-distances](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3102-minimize-manhattan-distances/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2747-count-zero-request-servers/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Monotonic Queue
@@ -673,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/panda-sarthak/Leetcode/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
