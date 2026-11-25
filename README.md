@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3886-sum-of-sortable-integers/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Hard/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Hard/3934-smallest-unique-subarray/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Hard/3934-smallest-unique-subarray/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -570,11 +573,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1392-longest-happy-prefix/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Hard/3934-smallest-unique-subarray/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/1392-longest-happy-prefix/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Hard/3934-smallest-unique-subarray/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -698,4 +703,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/1352-product-of-the-last-k-numbers/) | Medium |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Hard/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
