@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3886-sum-of-sortable-integers/) | Hard |
 | [3934-smallest-unique-subarray](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Hard/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/panda-sarthak/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3806-maximum-bitwise-and-after-increment-operations/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
