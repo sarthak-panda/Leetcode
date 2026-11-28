@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-smallest-unique-subarray](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Hard/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Medium/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3806-maximum-bitwise-and-after-increment-operations/) | Hard |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Medium/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/panda-sarthak/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3806-maximum-bitwise-and-after-increment-operations/) | Hard |
 | [3886-sum-of-sortable-integers](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3886-sum-of-sortable-integers/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Medium/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-next-greater-element-iv](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2454-next-greater-element-iv/) | Hard |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2973-find-number-of-coins-to-place-in-tree-nodes/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/sarthak-panda/Leetcode/tree/main/Python3/Medium/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
